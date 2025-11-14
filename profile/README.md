@@ -48,7 +48,7 @@ Building a Raspberry Pi-based camera that demonstrates the complete authenticati
 The Birthmark Standard Foundation is a 501(c)(3) nonprofit organization (pending) based in Portland, Oregon. We believe media authentication infrastructure should be open, transparent, and accessible to everyone.
 
 **Founded by:** Samuel C. Ryan  
-**Contact:** [Email to be established upon 501(c)(3) approval]
+**Contact:** contact@birthmarkstandard.org
 
 ---
 
