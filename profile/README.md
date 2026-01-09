@@ -16,7 +16,14 @@
 
 The Birthmark Standard Foundation develops and maintains open-source media authentication infrastructure as a public good. We believe the tools for verifying what's real should be accessible to everyone—independent of corporate platforms, government control, or commercial gatekeepers.
 
+
  
+## Projects
+
+### [Birthmark](https://github.com/Birthmark-Standard/Birthmark)
+Complete Phase 1 implementation including Raspberry Pi camera prototype, submission server, blockchain (Substrate-based), and verification tools. Hardware-backed photo authentication with 69% storage optimization.
+
+
 
 ## Why We Exist
 
